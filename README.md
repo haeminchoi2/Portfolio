@@ -23,13 +23,13 @@
 
 ### 나만의 향수 제작하기 및 추천 플랫폼
 <br/>
-개발 기간: 2022.12.01 ~ 2022.12.28  (4주)  
+- 개발 기간: 2022.12.01 ~ 2022.12.28  (4주)  
 
 ### 도메인 주소
-<a href="https://www.mmop-perfume.com">https://www.mmop-perfume.com</a>
+- <a href="https://www.mmop-perfume.com">https://www.mmop-perfume.com</a>
 
 ### 깃허브
-[MMOP-django](https://github.com/haeminchoi2/MMOP-django)
+- [MMOP-django](https://github.com/haeminchoi2/MMOP-django)
 
 ### 팀 프로젝트
 - 팀 구성 : 5명
@@ -53,20 +53,23 @@
 ### 🔧 Skill
 
 #### Back-End
-Python / Django / DjangoRestFramework
+- Python / Django / DjangoRestFramework
 
 #### Front-End
-Javascript / html / css
+- Javascript / html / css
 
 #### 배포
-Docker / AWS EC2, Route53, CloudFront, S3 / Gunicorn / Nginx
+- Docker / AWS EC2, Route53, CloudFront, S3 / Gunicorn / Nginx
+
+#### CI/CD
+- Jenkins
 
 ### 시연영상
 
-<a href="https://youtu.be/a4ZZ7-G4N5g">https://youtu.be/a4ZZ7-G4N5g</a>
+- <a href="https://youtu.be/a4ZZ7-G4N5g">https://youtu.be/a4ZZ7-G4N5g</a>
 
 ### 프로젝트 위키
-[MMOP 설명과 트러블슈팅, 사용자 피드백](https://github.com/sparta-USD/MMOP-django/wiki)
+- [MMOP 설명과 트러블슈팅, 사용자 피드백](https://github.com/sparta-USD/MMOP-django/wiki)
 
 <br/>
 
@@ -74,10 +77,10 @@ Docker / AWS EC2, Route53, CloudFront, S3 / Gunicorn / Nginx
 
 ### 블록체인은 없는 NFT를 모방한 플랫폼 서비스
 <br/>
-개발 기간: 2022.11.22 ~ 2022.11.27
+- 개발 기간: 2022.11.22 ~ 2022.11.27
 
 ### 깃허브
-[MMOP-django](https://github.com/sparta-USD/UNFT-django)
+- [MMOP-django](https://github.com/sparta-USD/UNFT-django)
 
 ### 팀 프로젝트
 - 팀 구성 : 5명
@@ -94,30 +97,30 @@ Docker / AWS EC2, Route53, CloudFront, S3 / Gunicorn / Nginx
 ### 🔧 Skill
 
 #### Back-End
-Python / Django / DjangoRestFramework
+- Python / Django / DjangoRestFramework
 
 #### Front-End
-Javascript / html / css
+- Javascript / html / css
 
 #### ML
-pytorch
+- pytorch
 
 ### 시연영상
 
-<a href="https://youtu.be/xAREZLnfl6A">https://youtu.be/xAREZLnfl6A</a>
+- <a href="https://youtu.be/xAREZLnfl6A">https://youtu.be/xAREZLnfl6A</a>
 
 
 ### 프로젝트 위키
-[UNFT 설명과 트러블슈팅](https://github.com/sparta-USD/UNFT-django/wiki)
+- [UNFT 설명과 트러블슈팅](https://github.com/sparta-USD/UNFT-django/wiki)
 
 ## 3. Na-Dle(나랑 들을래?)
 
 ### 사용자의 취향을 반영하여 취향에 맞는 음악을 추천해주고, 취향이 비슷한 다른 사용자의 플레이리스트를 보여주는 추천서비스
 <br/>
-개발 기간: 2022.11.02 ~ 2022.11.08
+- 개발 기간: 2022.11.02 ~ 2022.11.08
 
 ### 깃허브
-[Nadle-django](https://github.com/sparta-USD/Nadle-django)
+- [Nadle-django](https://github.com/sparta-USD/Nadle-django)
 
 ### 팀 프로젝트
 - 팀 구성 : 5명
@@ -133,13 +136,13 @@ pytorch
 ### 🔧 Skill
 
 #### Back-End
-Python / Django / DjangoRestFramework
+- Python / Django / DjangoRestFramework
 
 #### Front-End
-Javascript / html / css
+- Javascript / html / css
 
 ### 시연 영상
-<a href="https://www.youtube.com/watch?v=pXa3Tuix1JY">https://www.youtube.com/watch?v=pXa3Tuix1JY</a>
+- <a href="https://www.youtube.com/watch?v=pXa3Tuix1JY">https://www.youtube.com/watch?v=pXa3Tuix1JY</a>
 
 ### 프로젝트 위키
-[Na-Dle 설명과 트러블슈팅](https://github.com/sparta-USD/Nadle-django/wiki)
+- [Na-Dle 설명과 트러블슈팅](https://github.com/sparta-USD/Nadle-django/wiki)
