@@ -14,6 +14,7 @@
 ## 📱Contact
 - 이메일: haeminchoi2@gmail.com
 - Github: https://github.com/haeminchoi2
+
 <br/>
 
 ## 📂 Project
@@ -66,6 +67,8 @@
 #### CI/CD
 - Jenkins
 
+<br>
+
 ### 시연영상
 
 - <a href="https://youtu.be/a4ZZ7-G4N5g">https://youtu.be/a4ZZ7-G4N5g</a>
@@ -73,7 +76,7 @@
 ### 프로젝트 위키
 - [MMOP 설명과 트러블슈팅, 사용자 피드백](https://github.com/sparta-USD/MMOP-django/wiki)
 
-<br/>
+<br>
 <br>
 
 ## 2. UNFT
@@ -108,10 +111,11 @@
 #### ML
 - pytorch
 
+<br>
+
 ### 시연영상
 
 - <a href="https://youtu.be/xAREZLnfl6A">https://youtu.be/xAREZLnfl6A</a>
-
 
 ### 프로젝트 위키
 - [UNFT 설명과 트러블슈팅](https://github.com/sparta-USD/UNFT-django/wiki)
