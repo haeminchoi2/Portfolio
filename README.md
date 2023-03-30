@@ -1,7 +1,5 @@
 # 최해민 | Choi Haemin Portfolio
 
-<br>
-
 ## 🧑‍💻 Intro
 
 안녕하세요. Django 주니어 개발자를 지망하는 최해민 입니다!
@@ -38,7 +36,6 @@
 - 팀 구성 : 5명
 
 <br>
-<br>
 
 ### 나의 활동
 ```
@@ -54,7 +51,6 @@
 9. Jenkins와 Docker를 이용한 CI/CD Pipeline 구축
 10. 사용자 피드백을 반영한 서비스 개선 경험
 ```
-
 
 ### 🔧 Skill
 
@@ -119,6 +115,8 @@
 
 ### 프로젝트 위키
 - [UNFT 설명과 트러블슈팅](https://github.com/sparta-USD/UNFT-django/wiki)
+
+<br>
 
 ## 3. Na-Dle(나랑 들을래?)
 
